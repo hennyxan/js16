@@ -1,0 +1,33 @@
+body {
+    margin-left: 50px;
+    font-family: Verdana;
+    max-width: 500px;
+}
+
+hr {
+    margin-bottom: 1.5rem;
+
+}
+
+
+.btnActions {
+    padding: 0.35rem 0.6rem;
+    margin-bottom: 1rem;
+}
+
+.cart-container {
+    border: 1px solid blue ;
+    border-radius: 5px;
+    padding: 0.25rem;
+    min-height: 4rem;
+}
+
+.cart-item {
+    margin: 0.4rem 0.6rem;
+    padding: 0.25rem;
+    border-bottom: 1px dotted orange;
+}
+
+.cart-item input {
+    float: right;
+}
